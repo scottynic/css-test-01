@@ -1,4 +1,7 @@
-h1 {
+div {
+    font-size: 32px;
+    text-align: center;
+    font-weight: 700;
     color: white;
     background-color: red;
 }
